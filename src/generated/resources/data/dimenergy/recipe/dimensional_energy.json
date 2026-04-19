@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": "dimstorage:dim_wall",
+    "b": "minecraft:redstone",
+    "c": "minecraft:redstone_block",
+    "d": "dimstorage:solid_dim_core"
+  },
+  "pattern": [
+    "aba",
+    "bcb",
+    "ada"
+  ],
+  "result": {
+    "id": "dimenergy:dimensional_energy"
+  }
+}

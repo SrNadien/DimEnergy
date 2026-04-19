@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.benbenlaw.dimenergy.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "FrequencyScreenMixin",
+    "LockButtonMixin",
+    "OwnerButtonMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+
+}
