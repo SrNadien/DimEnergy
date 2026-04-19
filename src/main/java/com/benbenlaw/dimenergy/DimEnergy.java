@@ -43,7 +43,6 @@ import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import org.apache.logging.log4j.LogManager;
 
-
 // The value here should match an entry in the META-INF/neoforge.mods.toml file
 @Mod(DimEnergy.MOD_ID)
 public class DimEnergy {
